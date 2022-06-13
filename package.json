@@ -24,6 +24,7 @@
     "bindings": "^1.5.0",
     "colorspace": "^1.1.4",
     "dev-null": "^0.1.1",
+    "is-stream": "^3.0.0",
     "logform": "^2.4.0",
     "nan": "^2.14.1",
     "prebuild-install": "^5.3.3",
